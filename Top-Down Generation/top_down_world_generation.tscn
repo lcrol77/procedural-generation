@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://b76vq2cscbcas"]
+
+[node name="Top-Down-World-Generation" type="Node2D"]
